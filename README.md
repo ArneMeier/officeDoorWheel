@@ -7,3 +7,6 @@ Recommendations:
 3. Punch a hole in the end of the pointer with a punch.
 4. Cut a hole in the middle of the black dot of the wheel with scissors. 
 5. Use a brass fastener to attach the pointers in the middle.
+
+
+<img src="photo.jpg">
