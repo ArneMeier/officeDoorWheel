@@ -9,4 +9,5 @@ Recommendations:
 5. Use a brass fastener to attach the pointers in the middle.
 
 
+# Photo of a previous version
 <img src="photo.jpg">
